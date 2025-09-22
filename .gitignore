@@ -1,0 +1,15 @@
+# Ignore system and temp files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+tmp/
+cache/
+
+# Local environment files
+.env
+config.local.php
+
+# IDE/Editor settings
+.vscode/
